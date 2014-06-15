@@ -1,4 +1,4 @@
-Title
+Peer Assignment 1
 ========================================================
 
 _**Assumption**_ : The file "activity.csv" is located in the working directory
